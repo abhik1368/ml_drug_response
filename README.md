@@ -13,3 +13,6 @@
 - tensorflow-gpu 1.14.0
 - Geforce GTX 1080 Ti 11GB and Titan RTX 24GB
 - RAM 64GB
+![image](https://github.com/abhik1368/ml_drug_response/assets/1129505/337a8cf5-3e24-4ab3-a8c4-af4a5e6af9e5)
+![image](https://github.com/abhik1368/ml_drug_response/assets/1129505/067bc1e6-90ee-4442-bd19-674c4bfd80ee)
+
