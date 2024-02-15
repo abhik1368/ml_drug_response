@@ -1,0 +1,14 @@
+# Usage
+- Jupyter notebooks for CNN and RF based model generation
+- # Code description
+- *.ipynb : the jupyter notebook files (python 3) to construct prediction model and show validation result
+- *.h5, *.json : these files are constructed model architecture and model weight from AI-method (CNN and ResNet)
+- *.pkl : these files are constructed model from ML-method (CNN and RF)
+- # Computer specification
+- All models were constructed under the computer specification below.
+- Windows 10
+- Python 3
+- Keras 2.3.0
+- tensorflow-gpu 1.14.0
+- Geforce GTX 1080 Ti 11GB and Titan RTX 24GB
+- RAM 64GB
